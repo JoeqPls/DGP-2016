@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="ANN">
+      <UniqueIdentifier>{d88981e3-d2e9-4708-81b8-50fdb98a8cc5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\CourseExamples\02-Registration\ClosestPoint.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\CourseExamples\02-Registration\GlutExaminer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\CourseExamples\02-Registration\GlutViewer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\CourseExamples\02-Registration\Registration.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\CourseExamples\02-Registration\registrationview.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\CourseExamples\02-Registration\RegistrationViewer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\CourseExamples\02-Registration\Transformation.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\ANN.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\bd_fix_rad_search.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\bd_pr_search.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\bd_search.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\bd_tree.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\brute.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\kd_dump.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\kd_fix_rad_search.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\kd_pr_search.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\kd_search.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\kd_split.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\kd_tree.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\kd_util.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\ANN\perf.cpp">
+      <Filter>ANN</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\src\CourseExamples\02-Registration\ClosestPoint.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\src\CourseExamples\02-Registration\gl.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\src\CourseExamples\02-Registration\GlutExaminer.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\src\CourseExamples\02-Registration\GlutViewer.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\src\CourseExamples\02-Registration\Matrix.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\src\CourseExamples\02-Registration\Registration.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\src\CourseExamples\02-Registration\RegistrationViewer.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\src\CourseExamples\02-Registration\Transformation.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\src\CourseExamples\02-Registration\Vector.hh">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

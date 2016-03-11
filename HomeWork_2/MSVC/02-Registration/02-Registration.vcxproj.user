@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>..\..\data\output-pts ..\..\data\bunny01.obj ..\..\data\bunny02.obj ..\..\data\bunny03.obj ..\..\data\bunny04.obj ..\..\data\bunny05.obj ..\..\data\bunny06.obj ..\..\data\bunny07.obj ..\..\data\bunny08.obj ..\..\data\bunny09.obj ..\..\data\bunny10.obj</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>..\..\data\output-pts ..\..\data\bunny01.obj ..\..\data\bunny02.obj ..\..\data\bunny03.obj ..\..\data\bunny04.obj ..\..\data\bunny05.obj ..\..\data\bunny06.obj ..\..\data\bunny07.obj ..\..\data\bunny08.obj ..\..\data\bunny09.obj ..\..\data\bunny10.obj</LocalDebuggerCommandArguments>
+  </PropertyGroup>
+</Project>
